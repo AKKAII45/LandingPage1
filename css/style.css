@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+section{
+    width: 100%;
+    height: 100%;
+}
+p{
+    font-size: 1.3em;
+}
+a.nav-link{
+    margin-left: 150px;
+}
+.col-lg-6 {
+    background-color: #fff;
+}
+
+.card-title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #D04103 !important;
+}
+.card-text {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #202020 !important;
+
+}
+.card-body{
+    background: #dbf3d6;
+}
+#botao{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: rgba(255, 77, 0, 0.5);
+}
+#center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
